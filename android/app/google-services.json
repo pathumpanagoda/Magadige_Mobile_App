@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "348198548913",
+    "project_id": "kavinda-f44d7",
+    "storage_bucket": "kavinda-f44d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348198548913:android:b2180d35ccb6439b0b7990",
+        "android_client_info": {
+          "package_name": "com.example.dog_food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQi1TPl0Wk5Ja8LvCpo2tIwg0X8xyxMVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348198548913:android:6f388f8a967ed71b0b7990",
+        "android_client_info": {
+          "package_name": "com.example.magadige"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQi1TPl0Wk5Ja8LvCpo2tIwg0X8xyxMVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348198548913:android:55ee4ecfa94887da0b7990",
+        "android_client_info": {
+          "package_name": "com.example.shopappp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQi1TPl0Wk5Ja8LvCpo2tIwg0X8xyxMVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348198548913:android:e3377d0101b8899b0b7990",
+        "android_client_info": {
+          "package_name": "com.example.soilapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQi1TPl0Wk5Ja8LvCpo2tIwg0X8xyxMVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,16 +1,31 @@
-# magadige
+# Maga Dige - Your Outdoor Partner  
 
-A new Flutter project.
+**Maga Dige** is a mobile app designed to enhance outdoor adventures by providing essential hiking and camping information, trip planning tools, user safety features, and social connectivity.  
 
-## Getting Started
+This project was developed as part of the **User Experience Engineering** module (Y3S1) and aims to address real-world challenges faced by outdoor enthusiasts.  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features  
+- **Detailed Hiking & Camping Information**: Access accurate and up-to-date details about trails and campgrounds.  
+- **Trip Planning Tools**: Create and manage personalized itineraries.  
+- **User Safety Features**: Includes emergency SOS alerts, live location sharing, and weather updates.  
+- **Social Connectivity**: Connect with fellow travelers, share experiences, and explore together.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With  
+- **Flutter**: For front-end development and creating a seamless user experience.  
+- **Firebase**: For backend services including real-time data sync and authentication.  
+
+---
+
+## 📂 Folder Structure  
+```plaintext
+/
+├── lib/             # Main app logic and UI
+├── assets/          # Images, icons, and static files
+├── android/         # Android-specific code
+├── ios/             # iOS-specific code
+├── test/            # Unit and widget tests
+└── pubspec.yaml     # Project dependencies and metadata
